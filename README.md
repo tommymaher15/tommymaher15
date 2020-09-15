@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Tommy👋
+:smile:
 
-<!--
-**tommymaher15/tommymaher15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a React application to display Github repos using the Github-api!
+- 🌱 I’m currently diving deeper into ReactJS and improving my skills in Data structures and Algorithms 
+- 👯 Looking to collaborate on a project? Feel free to reach out I'm always looking to Collab and contribute in projects. 
+- 🤔 Feel free to check out my Projects. Any feedback is greatly appreciated and if you have any questions, feel free to reach out I'll be happy to answer! :rocket: 
+- 💬 Starting out and looking for some advice? I'll be happy to help out in any way I can! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 📫 How to reach me: ... Feel Free to reach out to me on Linkedin! https://www.linkedin.com/in/tommymaher10/ 
+:smile:
+
