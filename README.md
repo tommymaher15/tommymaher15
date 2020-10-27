@@ -2,7 +2,7 @@
 :smile:
 
 
-- 🔭 I’m currently working on a React application to display Github repos using the Github-api!
+- 🔭 I’m currently working on a React messenger application! 
 - 🌱 I’m currently diving deeper into ReactJS and improving my skills in Data structures and Algorithms 
 - 👯 Looking to collaborate on a project? Feel free to reach out I'm always looking to Collab and contribute in projects. 
 - 🤔 Feel free to check out my Projects. Any feedback is greatly appreciated and if you have any questions, feel free to reach out I'll be happy to answer! :rocket: 
